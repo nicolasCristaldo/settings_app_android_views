@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Settings App</string>
+
+    <string name="dark_mode">Dark mode</string>
+    <string name="dark_mode_description">Turn on dark mode to change the style of the display</string>
+
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bluetooth_description">Connect peripherals without cables</string>
+
+    <string name="volume">Volume</string>
+
+    <string name="vibrations">Vibrate on calls</string>
+</resources>
